@@ -1,1 +1,2 @@
-# GAN-
+# GAN- StackGAN vs AttnGAN
+
